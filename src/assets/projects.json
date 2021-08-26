@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Pickflix & Grill",
+    "image": "https://github.com/EinsteinDG/group-3/blob/main/assets/images/LandingPageEx.png?raw=true",
+    "project": "Pickflix & Grill",
+    "location": "https://cnvives.github.io/group-3/"
+  },
+  {
+    "id": 2,
+    "name": "Long Rides",
+    "image": "https://github.com/EinsteinDG/Project_2/blob/main/images/dashboard-ss.png?raw=true",
+    "project": "Long_Rides",
+    "location": "https://long-rides.herokuapp.com/"
+  },
+  {
+    "id": 3,
+    "name": "Note Taker",
+    "image": "https://github.com/EinsteinDG/Note-Taker/blob/main/images/index.gif?raw=true",
+    "project": "Tech Blog",
+    "location": "https://techy-blog-app.herokuapp.com/"
+  },
+  {
+    "id": 4,
+    "name": "The FitApp Tracker",
+    "image": "https://github.com/EinsteinDG/Fitness_Tracker_Homework/blob/main/dashboard.png?raw=true",
+    "project": "Fitness Tracker",
+    "location": "https://the-fitapp-tracker.herokuapp.com/"
+  },
+  {
+    "id": 5,
+    "name": "Employee Managment System",
+    "image": "https://github.com/EinsteinDG/Employee_Managment_System/blob/main/assets/images/ems.gif?raw=true",
+    "project": "An Employee Managment System",
+    "location": "https://github.com/EinsteinDG/Employee_Managment_System"
+  },
+  {
+    "id": 6,
+    "name": "Team Profile Generator",
+    "image": "https://github.com/EinsteinDG/TeamProfileGenerator/blob/main/Assets/homepage.png?raw=true",
+    "project": "A team Profile Generator",
+    "location": "https://github.com/EinsteinDG/TeamProfileGenerator"
+  }
+]
